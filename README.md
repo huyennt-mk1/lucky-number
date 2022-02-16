@@ -6,6 +6,9 @@
 
 - Clone this project
 - Run cmd
+- dfghjk
+
+
 
 ```bash
 $ yarn
