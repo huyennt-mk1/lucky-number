@@ -6,9 +6,8 @@
 
 - Clone this project
 - Run cmd
-- dfasdasdasdasghjk
-
-
+- df
+- 
 
 ```bash
 $ yarn
